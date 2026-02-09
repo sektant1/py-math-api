@@ -1,4 +1,4 @@
-# Flask Calc API (Bootstrap)
+# py-math-api
 
 Projeto simples em Flask que chama uma API para calcular expressões aritméticas.
 
