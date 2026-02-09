@@ -7,8 +7,8 @@ Projeto simples em Flask que chama uma API para calcular expressões aritmética
 
 ## Clonar
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <PASTA_DO_REPOSITORIO>
+git clone https://github.com/sektant1/py-math-api.git
+cd py-math-api
 ```
 
 ## Criar venv e instalar dependências
